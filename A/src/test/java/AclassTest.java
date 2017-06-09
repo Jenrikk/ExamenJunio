@@ -25,8 +25,8 @@ public class AclassTest {
 	}
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void locateTest() {
+		
 	}
 
 }
