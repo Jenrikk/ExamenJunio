@@ -7,7 +7,8 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class AclassTest {
-
+	
+	
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 	}
@@ -26,7 +27,7 @@ public class AclassTest {
 
 	@Test
 	public void locateTest() {
-		
+		Assert.assertEquals(Point.(20,10), Aclass.locateTest(int(-20), int(10)));
 	}
 
 }
