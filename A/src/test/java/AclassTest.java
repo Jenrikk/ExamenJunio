@@ -27,7 +27,7 @@ public class AclassTest {
 
 	@Test
 	public void locateTest() {
-		Assert.assertEquals(Point.(20,10), Aclass.locateTest(int(-20), int(10)));
+		Assert.assertEquals((20,10), Aclass.locateTest(int(-20), int(10)));
 	}
 
 }
